@@ -4,6 +4,14 @@ Building enterprise Kubernetes platforms in regulated financial services. I cons
 
 ---
 
+## Projects
+
+<a href="https://github.com/foxj77/claudectx"><img src="https://github-readme-stats.vercel.app/api/pin/?username=foxj77&repo=claudectx&theme=default" /></a>
+<a href="https://github.com/foxj77/claude-code-skills"><img src="https://github-readme-stats.vercel.app/api/pin/?username=foxj77&repo=claude-code-skills&theme=default" /></a>
+<a href="https://github.com/foxj77/kagent-git-skills-example"><img src="https://github-readme-stats.vercel.app/api/pin/?username=foxj77&repo=kagent-git-skills-example&theme=default" /></a>
+
+---
+
 ## Current work
 
 Lead engineer on a multinational investment bank's managed AKS platform: 100+ tenant teams, 75+ clusters, the bank's prescribed migration target for every containerised workload it runs. The platform has absorbed acquired infrastructure significantly faster than a like-for-like migration — a material contribution to a multi-billion-dollar integration programme.
