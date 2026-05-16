@@ -1,12 +1,8 @@
-# John Fox — Senior Platform Engineer
+Building enterprise Kubernetes platforms in large organisations. I consolidate fragmented infrastructure estates, accelerate post-merger integration, and get deployment frequency from quarterly to daily — without breaking the compliance controls.
 
-Building enterprise Kubernetes platforms in regulated financial services. I consolidate fragmented infrastructure estates, accelerate post-merger integration, and get deployment frequency from quarterly to daily — without breaking the compliance controls.
+## Current work and passions
 
----
-
-## Current work
-
-Lead engineer on a multinational investment bank's managed AKS platform: 100+ tenant teams, 75+ clusters, the bank's prescribed migration target for every containerised workload it runs. The platform has absorbed acquired infrastructure significantly faster than a like-for-like migration — a material contribution to a multi-billion-dollar integration programme.
+Lead platform engineer on a managed AKS platform: 100+ tenant teams, 75+ clusters, the prescribed migration target for every containerised workload it runs. The platform has absorbed acquired infrastructure significantly faster than a like-for-like migration — a material contribution to a multi-billion-dollar integration programme.
 
 - GitOps foundations that kill configuration drift as a class of incident
 - Self-service abstractions that let teams provision infrastructure without raising a ticket
@@ -15,21 +11,5 @@ Lead engineer on a multinational investment bank's managed AKS platform: 100+ te
 - Ephemeral environments that protect shared dev stability and tighten feedback loops
 
 Also building AI-augmented platform operations — event-driven agents that shift SRE work from reactive investigation to proactive remediation.
-
----
-
-## Background
-
-20+ years across infrastructure and cloud. Azure Expert (Solutions Architecture, DevOps, Cybersecurity Architecture) · AWS · GCP · NVIDIA NCA-GENL
-
-Previous consultancy: SOC2 programmes, GPU-backed AKS for AI workloads, and cloud migrations across fintech, e-commerce, and AI.
-
----
-
-## Outside work
-
-YouTube channel on platform engineering · open-source Go CLI for Claude Code profile management · homelab cluster for prototyping
-
----
 
 [LinkedIn](https://www.linkedin.com/in/johnfoxliverpool/)
