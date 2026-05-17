@@ -1,12 +1,9 @@
-Building enterprise Kubernetes platforms in large organisations. I consolidate fragmented infrastructure estates, accelerate post-merger integration, and get deployment frequency from quarterly to daily — without breaking the compliance controls.
-
 ## Current work and passions
 
 Lead platform engineer on a managed AKS platform: 100+ tenant teams, 75+ clusters, the prescribed migration target for every containerised workload it runs. The platform has absorbed acquired infrastructure significantly faster than a like-for-like migration — a material contribution to a multi-billion-dollar integration programme.
 
 - GitOps foundations that kill configuration drift as a class of incident
 - Self-service abstractions that let teams provision infrastructure without raising a ticket
-- Policy enforcement that satisfies audit without slowing developers down
 - Progressive delivery that drops into existing workloads without a rewrite
 - Ephemeral environments that protect shared dev stability and tighten feedback loops
 
